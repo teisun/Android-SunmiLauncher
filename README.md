@@ -10,7 +10,7 @@ http://v.youku.com/v_show/id_XMTU3NzAzNDg3Mg==.html
 	- U3DLauncherPlugin\:android插件代码,用于与U3D通讯
 	- SunmiLauncher\Build\:编译好的APK,可以直接安装
 	
-## Branche
+## Branch
 + develop:开发分支
 + master:主分支
 
