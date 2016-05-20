@@ -17,4 +17,4 @@ http://v.youku.com/v_show/id_XMTU3NzAzNDg3Mg==.html
 ## 博客文章(代码结构说明、文档..)
 + 正在写后面再补充...
 + 写得比较着急很多必要的注释都没加，算法模型还有一些BUG会持续完善。
-+ 有问题直接发右键teisun@qq.com或者QQ：461928932、微信:teisun
++ 有问题直接发邮件teisun@qq.com或者QQ：461928932、微信:teisun
