@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PageController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PageController.cs" Line="298" Column="37" />
+      <File FileName="Assets\Scripts\LauncherController.cs" Line="469" Column="28" />
+      <File FileName="Assets\Scripts\IconDragController.cs" Line="432" Column="28" />
+      <File FileName="Assets\Scripts\TouchTest.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DragMe.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LongClickUtils.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TrashController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LauncherModel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\IconController.cs" Line="250" Column="2" />
+      <File FileName="Assets\Scripts\DialogController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\tween\CutCardsTween.cs" Line="164" Column="30" />
+      <File FileName="Assets\Scripts\tween\IFlipTween.cs" Line="32" Column="15" />
+      <File FileName="Assets\Scripts\PageLayout.cs" Line="49" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
